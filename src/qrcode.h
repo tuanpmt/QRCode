@@ -33,7 +33,7 @@
 #ifndef __QRCODE_H_
 #define __QRCODE_H_
 
-#ifndef __cplusplus
+#ifndef bool
 typedef unsigned char bool;
 static const bool false = 0;
 static const bool true = 1;
